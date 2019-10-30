@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">AplikasiMovie</string>
+    <string name="name_movies">Nama Film</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet</string>
+    <string name="overview">Overview</string>
+    <string name="genres">Genres</string>
+
+
+    <string-array name="data_title">
+        <item>Kimi No Nawa</item>
+        <item>Kong Skull Island</item>
+        <item>Trolls</item>
+        <item>The Vatican Tapes</item>
+        <item>Weightlifting Fairy Kim Bok Joo</item>
+        <item>A Star is Born</item>
+        <item>Aquaman</item>
+        <item>Avengers: Infinity War</item>
+        <item>Bird Box</item>
+        <item>Bohemian Rhapsody</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>High schoolers Mitsuha and Taki are complete strangers living separate lives. But one night, they suddenly switch places. Mitsuha wakes up in Taki\’s body, and he in hers. This bizarre occurrence continues to happen randomly, and the two must adjust their lives around each other. </item>
+        <item>Explore the mysterious and dangerous home of the king of the apes as a team of explorers ventures deep inside the treacherous, primordial island. </item>
+        <item>Lovable and friendly, the trolls love to play around. But one day, a mysterious giant shows up to end the party. Poppy, the optimistic leader of the Trolls, and her polar opposite, Branch, must embark on an adventure that takes them far beyond the only world they\’ve ever known.</item>
+        <item>In a highly secured vault deep within the walls of Vatican City, the Catholic Church holds thousands of old films and video footage documenting exorcisms/supposed exorcisms and other unexplained religious phenomena they feel the world is not ready to see. This is the first tape \- Case 83\-G \- stolen from these archives and exposed to the public by an anonymous source.</item>
+        <item>A spunky female weightlifter and free-spirited male swimmer meet on campus, only to find out their pasts may be intertwined.</item>
+        <item>Seasoned musician Jackson Maine discovers \— and falls in love with \— struggling artist Ally. She has just about given up on her dream to make it big as a singer \— until Jack coaxes her into the spotlight. But even as Ally\'s career takes off, the personal side of their relationship is breaking down, as Jack fights an ongoing battle with his own internal demons.</item>
+        <item>Once home to the most advanced civilization on Earth, Atlantis is now an underwater kingdom ruled by the power\-hungry King Orm. With a vast army at his disposal, Orm plans to conquer the remaining oceanic people and then the surface world. Standing in his way is Arthur Curry, Orm\'s half\-human, half\-Atlantean brother and true heir to the throne.</item>
+        <item>As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led </item>
+        <item>Five years after an ominous unseen presence drives most of society to suicide, a survivor and her two children make a desperate bid to reach safety.</item>
+        <item>Singer Freddie Mercury, guitarist Brian May, drummer Roger Taylor and bass guitarist John Deacon take the music world by storm when they form the rock \'n\' roll band Queen in 1970. Hit songs become instant classics. When Mercury\'s increasingly wild lifestyle starts to spiral out of control, Queen soon faces its greatest challenge yet \– finding a way to keep the band together amid the success and excess.</item>
+    </string-array>
+
+    <string-array name="data_genres">
+        <item>Romance, Animation, Drama</item>
+        <item>Action, Adventure, Fantasy</item>
+        <item>Adventure, Family, Comedy</item>
+        <item>Thriller, Horror</item>
+        <item>Comedy, Romance</item>
+        <item>Drama, Romance, Music</item>
+        <item>Action, Adventure, Fantasy</item>
+        <item>Adventure, Action, Fantasy</item>
+        <item>Thriller, Drama</item>
+        <item>Drama, Music</item>
+    </string-array>
+
+    <array name="data_photo">
+        <item>@drawable/poster_kiminonawa</item>
+        <item>@drawable/poster_kong</item>
+        <item>@drawable/poster_trolls</item>
+        <item>@drawable/poster_vatican</item>
+        <item>@drawable/poster_weightlifting</item>
+        <item>@drawable/poster_a_star</item>
+        <item>@drawable/poster_aquaman</item>
+        <item>@drawable/poster_avengerinfinity</item>
+        <item>@drawable/poster_birdbox</item>
+        <item>@drawable/poster_bohemian</item>
+    </array>
+</resources>
